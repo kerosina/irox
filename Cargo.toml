@@ -66,7 +66,7 @@ env_logger = { version = "^0.11", features = [] }
 syn = { version = "^2.0", features = ["extra-traits"] }
 quote = { version = "^1.0", features = [] }
 signal-hook = { version = "^0.3", features = [] }
-windows = { version = "^0.58", features = ["Devices_Geolocation", "Foundation"] }
+windows = { version = "^0.56", features = ["Devices_Geolocation", "Foundation"] }
 rusqlite = { version = "^0.32", features = ["bundled", "bundled-windows"] }
 miniz_oxide = { version = "^0.8", features = [] }
 xml = { version = "^0.8", features = [] }
